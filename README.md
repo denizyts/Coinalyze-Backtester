@@ -1,12 +1,17 @@
-# Futures Backtester for financial markets.
+# Futures Backtester for cryptocurrencies.
 
 This project allows you to test your strategies on historical Open interest , Long short ratio , 
 OHLCV , Liquidation datas. fetched from coinalyze.net 
 
-##https://coinalyze.net
+## https://coinalyze.net
 
 If you have any problem send mail to me by using the adress on my profile
 *https://github.com/denizyts*
+
+# IMPORTANT
+
+- Set api on config
+- .A , .3 thoose extensions on symbols represents exchanges. (.A is Binance) https://api.coinalyze.net/v1/doc/
 
 ## Table of Contents
 
